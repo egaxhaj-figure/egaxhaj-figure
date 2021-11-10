@@ -2,7 +2,7 @@
 - 👀 I’m interested in Blockchain
 - 🌱 I’m currently learning Provenance Blockchain
 - 💞️ I’m looking to collaborate on Blockchain
-- 📫 How to reach me [Provenance slack group](https://join.slack.com/t/provenanceio/shared_invite/zt-vysymaqb-VqgW3frXoNNXNlyOiP7mog)
+- 📫 How to reach me [Provenance Slack group](https://join.slack.com/t/provenanceio/shared_invite/zt-vysymaqb-VqgW3frXoNNXNlyOiP7mog)
 
 <!---
 egaxhaj-figure/egaxhaj-figure is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
